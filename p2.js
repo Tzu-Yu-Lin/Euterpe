@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   soundAuraButton.addEventListener("click", () => {
     console.log("Sound Aura Mode button clicked.");
-    window.location.href = "https://.github.io/p/page3.html";
+    window.location.href = "https://cmpt-276-fall-2024.github.io/Euterpe/page3.html";
   });
 
 
