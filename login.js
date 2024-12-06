@@ -1,4 +1,4 @@
-const redirectUri = "https://cmpt-276-fall-2024.github.io/Euterpe/p2.html";
+const redirectUri = "https://cmpt-276-fall-2024.github.io/Euterpe/";
 const authEndpoint = "https://accounts.spotify.com/authorize";
 
 const clientId = "7fcfb8b43cfa49c395412083cf51bf27";
