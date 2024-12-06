@@ -4,5 +4,5 @@ function goBack() {
 
 function logOut() {
   localStorage.removeItem("token");
-  location.href = "/index.html";
+  location.href = "https://cmpt-276-fall-2024.github.io/Euterpe/";
 }
