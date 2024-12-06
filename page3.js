@@ -1,12 +1,12 @@
 const backButton = document.getElementById("backButton");
 const soundAuraButton = document.getElementById("soundAuraButton");
 backButton.addEventListener("click", () => {
-  window.location.href = "https://.github.io/p/p2.html";
+  window.location.href = "https://cmpt-276-fall-2024.github.io/Euterpe/p2.html";
 });
 
 soundAuraButton.addEventListener("click", () => {
   console.log("Sound Aura Mode button clicked.");
-  window.location.href = "https://.github.io/p/p4.html";
+  window.location.href = "https://cmpt-276-fall-2024.github.io/Euterpe/p4.html";
 });
 function msToTime(duration) {
   let seconds = Math.floor((duration / 1000) % 60),
